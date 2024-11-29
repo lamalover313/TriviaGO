@@ -1,4 +1,4 @@
-#Trivia GO
+# Trivia GO
 
 Jorge Luis Reyes Cruz 20182001662
 
